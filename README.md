@@ -11,4 +11,4 @@ Projeto desenvolvido para entender a fundo o processo dos middlewares atuando no
 * Validação de ID de usuário
 * Manipulação de informações pelos parâmetros do node
 * Testes Automatizados
-* 
+
